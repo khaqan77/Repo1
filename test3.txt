@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is CED8-14BB
+
+ Directory of C:\Users\fasih\Desktop\Tools\Git\MyFolder
+
+2018-08-10  09:45 AM    <DIR>          .
+2018-08-10  09:45 AM    <DIR>          ..
+2018-08-10  07:54 AM                 0 index.html
+2018-08-10  09:19 AM               511 index1.html
+2018-08-10  07:53 AM                 8 test1.txt
+2018-08-10  09:18 AM               459 test2.txt
+2018-08-10  09:45 AM                 0 test3.txt
+               5 File(s)            978 bytes
+               2 Dir(s)  394,132,123,648 bytes free
